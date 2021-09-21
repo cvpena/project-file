@@ -1,0 +1,52 @@
+body{
+font-family: "georgia", sans-serif;
+
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h6 {
+  color: grey;
+}
+
+
+img {
+  width: 50%;
+  max-width: 890px;
+}
+
+
+a {
+    color: grey;
+    text-decoration: none;
+  }
+
+figcaption {
+  color: grey;
+}
+
+p{
+  font-size: 16px;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+
+li {
+  font-size: 20px;
+
+}
+
+figure {
+  display:block;
+  margin-left: 25%;
+  margin-right: 25%;
+}
