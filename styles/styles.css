@@ -1,5 +1,5 @@
 body{
-font-family: "roboto", sans-serif;
+font-family: "georgia", sans-serif;
 
 }
 
@@ -7,6 +7,11 @@ font-family: "roboto", sans-serif;
 h1 {
   text-align: center;
 }
+
+h6 {
+  color: grey;
+}
+
 
 img {
   width: 50%;
@@ -18,6 +23,10 @@ a {
     color: grey;
     text-decoration: none;
   }
+
+figcaption {
+  color: grey;
+}
 
 p{
   font-size: 16px;
@@ -36,7 +45,7 @@ li {
 
 }
 
-figure{
+figure {
   display:block;
   margin-left: 25%;
   margin-right: 25%;
